@@ -14,4 +14,6 @@ How to deploy to production
 ---------------------------
     ./appcfg.py update ../workspace/ass
 
-
+Production site
+---------------
+http://achievement-service-system.appspot.com/
